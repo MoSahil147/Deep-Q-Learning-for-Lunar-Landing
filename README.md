@@ -1,1 +1,1 @@
-# Deep-Q-Learning-for-Lunar-Landing
+# Deep Convolutional Q-Learning for Pac-Man
